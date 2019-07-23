@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>HTM.html</file>
+        <file>main.qml</file>
+        <file>ToolSeparator.qml</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/filehtml.jpg</file>
+        <file>images/fileimage.png</file>
+        <file>images/filetext.jpg</file>
+        <file>images/paste.png</file>
+        <file>images/rotateleft.jpg</file>
+        <file>images/rotateright.jpg</file>
+        <file>images/zoomIn.jpg</file>
+        <file>images/zoomOut.jpg</file>
+    </qresource>
+</RCC>
